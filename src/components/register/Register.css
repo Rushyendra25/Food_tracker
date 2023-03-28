@@ -1,0 +1,18 @@
+.fo{
+    border: 3px solid;
+    box-shadow: 10px 10px 8px 10px #888888;
+    background-color: rgba(249, 246, 244, 0.742);
+    border-radius: 16px;
+    margin-left: 350px;
+    
+    }
+    .register{
+      background-color: rgb(252, 235, 200);
+        background-size :100% 100%;
+        background-repeat: no-repeat;
+        height: 700px;
+    } 
+    .reg{
+    text-decoration: none;
+    }
+    
